@@ -14,3 +14,6 @@ print(sys.version)
 
 a = 'sdasdasd'
 print(a)
+
+b = 'sadasda'
+print(b)
